@@ -1,0 +1,4 @@
+otpauth://totp/493245020%40qq%2Ecom?secret=7RBDWO3ZYBOODS4LUKXDMV5375FLKUSG&issuer=Cloudflare&algorithm=SHA1&digits=6&period=30
+otpauth://totp/sproutluffy%40gmail%2Ecom?secret=MS2SM65TVWLCQGPHB4FH67NPGPH452YX&issuer=Gmail&algorithm=SHA1&digits=6&period=30
+otpauth://totp/WhyIHavenanme?secret=KQQGLP7ZGMHK5VWZ&issuer=GitHub&algorithm=SHA1&digits=6&period=30
+otpauth://totp/493245020%40qq%2Ecom?secret=HJ5VPVIW662PELGO6JV2IRK6PO6UKLU4&issuer=pixiv%2Enet&algorithm=SHA1&digits=6&period=30
